@@ -20,4 +20,4 @@ jobs:
           username: ${{ secrets.SERVER_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "./*"
-          target: "/home/ntkyc/workspace"
+          target: "/home/ntkyc/workspace/test-develop"
