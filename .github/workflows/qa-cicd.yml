@@ -3,7 +3,7 @@ name: Deploy HTML Project
 on:
   push:
     branches:
-      - qa
+      - QA
 
 jobs:
   deploy:
